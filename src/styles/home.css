@@ -1,0 +1,76 @@
+nav{
+    background-color: black;
+    margin-bottom: 0;
+}
+
+.barraNavegacion{
+    background-color: black;
+}
+
+.borderNavegador{
+    border: 1px solid #FFE919;
+}
+
+.nav-item:hover{
+    background-color: #FFE919;
+}
+
+
+.nav-link{
+    color: #FFE919;
+    font-weight: 700;
+}
+.nav-link:active{
+    color: #c9b500;
+}
+
+.nav-link:target{
+    color: #c9b500;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+/* .nav-link:visited{
+    color: #c9b500;
+} */
+
+.divisor{
+    height: 3px;
+    background-color: #FFE919;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: #FFE919;    
+
+}
+
+.card{
+    background-color: #fffef8 ;
+    color: black;
+    min-width: 300px;
+}
+
+h2{
+    color: #FFE919;
+}
+
+.btn-yellow{
+    background-color: #FFE919;
+    width: 100%;
+}
+
+.vehiculo{
+    min-height: 500px;
+}
+
+.imgTop img{
+    width: 100%;
+    height: auto;
+}
